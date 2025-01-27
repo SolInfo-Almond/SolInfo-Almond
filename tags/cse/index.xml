@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>CSE on Solidaires Informatique Almond</title>
     <link>https://almond.solidairesinformatique.org/tags/cse/</link>
     <description>Recent content in CSE on Solidaires Informatique Almond</description>
@@ -14,6 +15,21 @@
       <pubDate>Mon, 27 Jan 2025 22:19:55 +0100</pubDate>
       <guid>https://almond.solidairesinformatique.org/posts/2025/01/27/compte-rendu-syndical-de-r%C3%A9union-cse-14-janvier-2025/</guid>
       <description>&lt;p&gt;Ordre du jour:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fermeture 2025 et organisation des congés&lt;/li&gt;&#xA;&lt;li&gt;Accord temps de travail des salarié⋅es Amossys&lt;/li&gt;&#xA;&lt;li&gt;Fermeture 2025 et organisation des congés&lt;/li&gt;&#xA;&lt;li&gt;Panneaux d&amp;rsquo;affichage CSE&lt;/li&gt;&#xA;&lt;li&gt;Mise en place d&amp;rsquo;un outil d&amp;rsquo;IA au sein du groupe&lt;/li&gt;&#xA;&lt;li&gt;Accord Forfait Mobilité Durable (FMD)&lt;/li&gt;&#xA;&lt;li&gt;Formation SSCT des élu⋅es CSE&lt;/li&gt;&#xA;&lt;li&gt;Berceaux crèches 2025&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+=======
+    <title>Cse on Solidaires Informatique Almond</title>
+    <link>http://localhost:1313/tags/cse/</link>
+    <description>Recent content in Cse on Solidaires Informatique Almond</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 27 Jan 2025 22:19:55 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025_01_27_cr_syndical_cse</title>
+      <link>http://localhost:1313/posts/2025/01/27/2025_01_27_cr_syndical_cse/</link>
+      <pubDate>Mon, 27 Jan 2025 22:19:55 +0100</pubDate>
+      <guid>http://localhost:1313/posts/2025/01/27/2025_01_27_cr_syndical_cse/</guid>
+      <description>&lt;h1 id=&#34;compte-rendu-syndical-de-réunion-cse-14-janvier-2025&#34;&gt;Compte rendu syndical de réunion CSE 14 Janvier 2025&lt;/h1&gt;&#xA;&lt;h2 id=&#34;fermeture-2025-et-organisation-des-congés&#34;&gt;Fermeture 2025 et organisation des congés&lt;/h2&gt;&#xA;&lt;p&gt;La direction souhaite imposer les congés suivants pour l&amp;rsquo;année 2025:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Vendredi 2 Mai&lt;/li&gt;&#xA;&lt;li&gt;Vendredi 30 Mai&lt;/li&gt;&#xA;&lt;li&gt;10 jours ouvrés à prendre entre le 1er Juillet et le 31 Août&lt;/li&gt;&#xA;&lt;li&gt;Du 26 Décembre au 2 Janvier (1 jour de congé imposé en 2026)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Cela représente au total 16 jours de congés sur 25 en 2025. La direction justifie cela par sa volonté de préserver la rentabilité du groupe en augmentant le TACE (le taux d&amp;rsquo;occupation congés exclus pour chaque salarié⋅e), dans un marché de plus en plus concurrentiel et un contexte économique/politique/national instable.&#xA;Certains métiers comme le SOC ou MSC ne seront a priori pas concernés.&lt;/p&gt;</description>
+>>>>>>> refs/remotes/origin/main
     </item>
   </channel>
 </rss>

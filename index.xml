@@ -2,12 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Solidaires Informatique Almond</title>
-    <link>https://almond.solidairesinformatique.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Solidaires Informatique Almond</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Mon, 27 Jan 2025 22:19:55 +0100</lastBuildDate>
+<<<<<<< HEAD
     <atom:link href="https://almond.solidairesinformatique.org/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Compte rendu syndical de réunion CSE 14 Janvier 2025</title>
+      <link>http://localhost:1313/posts/2025/01/27/compte-rendu-syndical-de-r%C3%A9union-cse-14-janvier-2025/</link>
+      <pubDate>Mon, 27 Jan 2025 22:19:55 +0100</pubDate>
+      <guid>http://localhost:1313/posts/2025/01/27/compte-rendu-syndical-de-r%C3%A9union-cse-14-janvier-2025/</guid>
+      <description>&lt;p&gt;Ordre du jour:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fermeture 2025 et organisation des congés&lt;/li&gt;&#xA;&lt;li&gt;Accord temps de travail des salarié⋅es Amossys&lt;/li&gt;&#xA;&lt;li&gt;Fermeture 2025 et organisation des congés&lt;/li&gt;&#xA;&lt;li&gt;Panneaux d&amp;rsquo;affichage CSE&lt;/li&gt;&#xA;&lt;li&gt;Mise en place d&amp;rsquo;un outil d&amp;rsquo;IA au sein du groupe&lt;/li&gt;&#xA;&lt;li&gt;Accord Forfait Mobilité Durable (FMD)&lt;/li&gt;&#xA;&lt;li&gt;Formation SSCT des élu⋅es CSE&lt;/li&gt;&#xA;&lt;li&gt;Berceaux crèches 2025&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+>>>>>>> refs/remotes/origin/main
     <item>
       <title>Compte rendu syndical de réunion CSE 14 Janvier 2025</title>
       <link>https://almond.solidairesinformatique.org/posts/2025/01/27/compte-rendu-syndical-de-r%C3%A9union-cse-14-janvier-2025/</link>
@@ -17,51 +28,51 @@
     </item>
     <item>
       <title>Accord Forfait Mobilité Durable : nous ne signons pas</title>
-      <link>https://almond.solidairesinformatique.org/posts/2025/01/08/accord-forfait-mobilit%C3%A9-durable-nous-ne-signons-pas/</link>
+      <link>http://localhost:1313/posts/2025/01/08/accord-forfait-mobilit%C3%A9-durable-nous-ne-signons-pas/</link>
       <pubDate>Wed, 08 Jan 2025 18:52:02 +0100</pubDate>
-      <guid>https://almond.solidairesinformatique.org/posts/2025/01/08/accord-forfait-mobilit%C3%A9-durable-nous-ne-signons-pas/</guid>
+      <guid>http://localhost:1313/posts/2025/01/08/accord-forfait-mobilit%C3%A9-durable-nous-ne-signons-pas/</guid>
       <description>Les négociations portant sur l&amp;rsquo;accord Forfait Mobilité Durable (FMD) ont eu lieu ces dernières semaines. N&amp;rsquo;étant pas aligné⋅es avec une proposition qui implique la réduction des droits des salarié⋅es de Rennes, nous ne signerons pas l&amp;rsquo;accord proposé par la direction.</description>
     </item>
     <item>
       <title>Foire au questions</title>
-      <link>https://almond.solidairesinformatique.org/page/faq/</link>
+      <link>http://localhost:1313/page/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://almond.solidairesinformatique.org/page/faq/</guid>
+      <guid>http://localhost:1313/page/faq/</guid>
       <description>&lt;p&gt;Nous sommes des salarié⋅es d&amp;rsquo;Almond, souhaitant nous regrouper pour mieux être représenté.&lt;/p&gt;&#xA;&lt;p&gt;Nous sommes une section du syndicat &lt;strong&gt;&lt;a href=&#34;https://solidairesinformatique.org/&#34;&gt;Solidaires Informatique&lt;/a&gt;&lt;/strong&gt;, membre de la &lt;a href=&#34;https://solidaires.org/&#34;&gt;Union syndicale Solidaires&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#foo&#34;&gt;Pourquoi foo ?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#bar&#34;&gt;Comment bar ?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#foobar&#34;&gt;Pourquoi foobar ?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#foobaz&#34;&gt;Pourquoi foobaz ?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;h1 id=&#34;foo&#34;&gt;Pourquoi foo ?&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#&#34;&gt;sommaire ↑&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;h1 id=&#34;bar&#34;&gt;Comment bar ?&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ut velit mauris, egestas sed, gravida nec, ornare ut, mi. Aenean ut orci vel massa suscipit pulvinar. Nulla sollicitudin. Fusce varius, ligula non tempus aliquam, nunc turpis ullamcorper nibh, in tempus sapien eros vitae ligula. Pellentesque rhoncus nunc et augue. Integer id felis. Curabitur aliquet pellentesque diam. Integer quis metus vitae elit lobortis egestas. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi vel erat non mauris convallis vehicula. Nulla et sapien. Integer tortor tellus, aliquam faucibus, convallis id, congue eu, quam. Mauris ullamcorper felis vitae erat. Proin feugiat, augue non elementum posuere, metus purus iaculis lectus, et tristique ligula justo vitae magna.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#&#34;&gt;sommaire ↑&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;h1 id=&#34;foobar&#34;&gt;Pourquoi foobar&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Aliquam convallis sollicitudin purus. Praesent aliquam, enim at fermentum mollis, ligula massa adipiscing nisl, ac euismod nibh nisl eu lectus. Fusce vulputate sem at sapien. Vivamus leo. Aliquam euismod libero eu enim. Nulla nec felis sed leo placerat imperdiet. Aenean suscipit nulla in justo. Suspendisse cursus rutrum augue. Nulla tincidunt tincidunt mi. Curabitur iaculis, lorem vel rhoncus faucibus, felis magna fermentum augue, et ultricies lacus lorem varius purus. Curabitur eu amet&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#&#34;&gt;sommaire ↑&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;h1 id=&#34;foobaz&#34;&gt;Pourquoi foobaz ?&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#&#34;&gt;sommaire ↑&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
     <item>
       <title>Mentions légales</title>
-      <link>https://almond.solidairesinformatique.org/page/legal/</link>
+      <link>http://localhost:1313/page/legal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://almond.solidairesinformatique.org/page/legal/</guid>
-      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Site&lt;/strong&gt; : &lt;code&gt;https://almond.solidairesinformatique.org/&#xA;&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Utilisateur⋅ice&lt;/strong&gt; : Internaute utilisant &lt;em&gt;le site&lt;/em&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Informations personnelles&lt;/strong&gt; : « les informations qui permettent, sous quelque forme que ce soit, directement ou non, l&amp;rsquo;identification des personnes physiques auxquelles elles s&amp;rsquo;appliquent » (article 4 de la loi n° 78-17 du 6 janvier 1978).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;En vertu de l&amp;rsquo;article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l&amp;rsquo;économie numérique, il est précisé aux &lt;em&gt;utilisateurices&lt;/em&gt; l&amp;rsquo;identité des différents intervenants dans le cadre de sa réalisation et de son suivi :&lt;/p&gt;</description>
+      <guid>http://localhost:1313/page/legal/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Site&lt;/strong&gt; : &lt;code&gt;http://localhost:1313/&#xA;&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Utilisateur⋅ice&lt;/strong&gt; : Internaute utilisant &lt;em&gt;le site&lt;/em&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Informations personnelles&lt;/strong&gt; : « les informations qui permettent, sous quelque forme que ce soit, directement ou non, l&amp;rsquo;identification des personnes physiques auxquelles elles s&amp;rsquo;appliquent » (article 4 de la loi n° 78-17 du 6 janvier 1978).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;En vertu de l&amp;rsquo;article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l&amp;rsquo;économie numérique, il est précisé aux &lt;em&gt;utilisateurices&lt;/em&gt; l&amp;rsquo;identité des différents intervenants dans le cadre de sa réalisation et de son suivi :&lt;/p&gt;</description>
     </item>
     <item>
       <title>Notre Programme</title>
-      <link>https://almond.solidairesinformatique.org/page/programme/</link>
+      <link>http://localhost:1313/page/programme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://almond.solidairesinformatique.org/page/programme/</guid>
+      <guid>http://localhost:1313/page/programme/</guid>
       <description>&lt;p&gt;Les syndicats de salarié·es constituent en France un &lt;strong&gt;outil indispensable&lt;/strong&gt; pour la conduite du dialogue social en entreprise, c&amp;rsquo;est à dire des échanges structurés entre la direction et les salarié·es.&lt;/p&gt;&#xA;&lt;p&gt;En effet, les syndicats représentatifs en entreprise ont plus de marge de manœuvre pour signer des accords d&amp;rsquo;entreprises sur des sujets essentiels liés à &lt;strong&gt;nos conditions de travail&lt;/strong&gt;, au &lt;strong&gt;partage de la valeur&lt;/strong&gt;, et à &lt;strong&gt;la vie en entreprise&lt;/strong&gt; en général.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nous contacter</title>
-      <link>https://almond.solidairesinformatique.org/page/contact/</link>
+      <link>http://localhost:1313/page/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://almond.solidairesinformatique.org/page/contact/</guid>
-      <description>&lt;p&gt;La section &lt;strong&gt;Solidaires Informatique Almond&lt;/strong&gt; est là pour vous aider, vous informer et vous défendre.&lt;/p&gt;&#xA;&lt;p&gt;Contactez la section par mail : &lt;a href=&#34;mailto:almond@solidairesinformatique.org&#34;&gt;almond@solidairesinformatique.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Cette adresse est gérée par la section syndicale &amp;#x261d;&amp;#xfe0f; Utilisez de préférence votre adresse personnelle pour y écrire.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&amp;lt;à venir&amp;gt;&lt;/strong&gt; un formulaire de contact anonyme&lt;/p&gt;&#xA;&lt;p&gt;Vous pouvez également contacter un⋅e des représentant⋅es de la section ci-dessous.&lt;/p&gt;&#xA;&lt;p&gt;Les adhérent⋅es peuvent nous contacter via nos boucles de discussion et nos mailing lists internes.&#xA;Pour adhérer, rendez-vous sur la page &lt;a href=&#34;https://almond.solidairesinformatique.org/page/adherer&#34;&gt;nous rejoindre&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/page/contact/</guid>
+      <description>&lt;p&gt;La section &lt;strong&gt;Solidaires Informatique Almond&lt;/strong&gt; est là pour vous aider, vous informer et vous défendre.&lt;/p&gt;&#xA;&lt;p&gt;Contactez la section par mail : &lt;a href=&#34;mailto:almond@solidairesinformatique.org&#34;&gt;almond@solidairesinformatique.org&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Cette adresse est gérée par la section syndicale &amp;#x261d;&amp;#xfe0f; Utilisez de préférence votre adresse personnelle pour y écrire.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&amp;lt;à venir&amp;gt;&lt;/strong&gt; un formulaire de contact anonyme&lt;/p&gt;&#xA;&lt;p&gt;Vous pouvez également contacter un⋅e des représentant⋅es de la section ci-dessous.&lt;/p&gt;&#xA;&lt;p&gt;Les adhérent⋅es peuvent nous contacter via nos boucles de discussion et nos mailing lists internes.&#xA;Pour adhérer, rendez-vous sur la page &lt;a href=&#34;http://localhost:1313/page/adherer&#34;&gt;nous rejoindre&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nous rejoindre</title>
-      <link>https://almond.solidairesinformatique.org/page/adherer/</link>
+      <link>http://localhost:1313/page/adherer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://almond.solidairesinformatique.org/page/adherer/</guid>
+      <guid>http://localhost:1313/page/adherer/</guid>
       <description>&lt;h2 id=&#34;confidentialité-de-ladhésion-secret&#34;&gt;Confidentialité de l&amp;rsquo;adhésion &amp;#x3299;&amp;#xfe0f;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nos élu⋅es et adhérent⋅es sont des collègues qui ont fait le choix de s’investir à titre personnel&lt;/strong&gt;. Si vous souhaitez participer (prendre part aux discussions, partager vos idées, ou simplement rencontrer des camarades) vous êtes bienvenu·e parmi nous.&#xA;&lt;strong&gt;L’adhésion est confidentielle&lt;/strong&gt; et n’est pas communiquée à Almond. Vous pouvez donc participer en toute discrétion si c’est votre souhait. Ne sont exposées publiquement que les personnes qui le choisissent délibérément.&#xA;L’adhésion se fait auprès de &lt;strong&gt;Solidaires Informatique national&lt;/strong&gt;. L’adhésion est soumise à une cotisation annuelle qui sert à financer les actions. Cette cotisation est adaptée en fonction du salaire et elle ouvre droit à crédit d’impôt (&lt;a href=&#34;https://www.service-public.fr/particuliers/vosdroits/F1&#34;&gt;voir conditions&lt;/a&gt;).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vos droits</title>
-      <link>https://almond.solidairesinformatique.org/page/vos_droits/</link>
+      <link>http://localhost:1313/page/vos_droits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://almond.solidairesinformatique.org/page/vos_droits/</guid>
+      <guid>http://localhost:1313/page/vos_droits/</guid>
       <description>&lt;h1 id=&#34;droit-à-la-formation&#34;&gt;Droit à la formation&lt;/h1&gt;&#xA;&lt;p&gt;L&amp;rsquo;union s&amp;rsquo;est dotée d&amp;rsquo;un organisme de formation syndical, le CEFI. Au titre du CFESES, tous les salarié.es ont droit à une formation (12 jours par an), payée par l&amp;rsquo;employeur.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.service-public.fr/particuliers/vosdroits/F2320&#34;&gt;Le CFESES (service-public.fr)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://solidaires.org/se-former/&#34;&gt;Se former avec le CEFI (Solidaires)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://code.travail.gouv.fr/code-du-travail/l2145-5&#34;&gt;Le CFESES - Art. L.2145-5 (&lt;em&gt;Code du travail&lt;/em&gt;)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;droit-des-salariées&#34;&gt;Droit des salarié·es&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://solidairesinformatique.org/vos-droits/fiches-pratiques/&#34;&gt;Fiches « connaître ses droits » (Solidaires Informatique)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://solidaires.org/connaitre-ses-droits/fiche-droits/&#34;&gt;Fiches « connaître ses droits » (Solidaires)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;droit-de-grève&#34;&gt;Droit de Grève&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://solidaires.org/connaitre-ses-droits/fiche-droits/fiche-n-7-le-droit-de-greve/&#34;&gt;Le droit de grève (Solidaires)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://solidairesinformatique.org/vos-droits/droit-de-greve/&#34;&gt;La Grève mode d’emploi (Solidaires Informatique)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://greve.cool/&#34;&gt;La grève, c&amp;rsquo;est cool &amp;#x1f609;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.cestlagreve.fr/&#34;&gt;Est-ce que c&amp;rsquo;est la grève ?&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

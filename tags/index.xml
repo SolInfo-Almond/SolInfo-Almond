@@ -2,12 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Solidaires Informatique Almond</title>
-    <link>https://almond.solidairesinformatique.org/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Solidaires Informatique Almond</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
+<<<<<<< HEAD
     <lastBuildDate>Mon, 27 Jan 2025 22:19:55 +0100</lastBuildDate>
     <atom:link href="https://almond.solidairesinformatique.org/tags/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <lastBuildDate>Wed, 08 Jan 2025 18:52:02 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> refs/remotes/origin/main
     <item>
       <title>CSE</title>
       <link>https://almond.solidairesinformatique.org/tags/cse/</link>
@@ -17,9 +22,9 @@
     </item>
     <item>
       <title>Où V&#39;Almond</title>
-      <link>https://almond.solidairesinformatique.org/tags/o%C3%B9-valmond/</link>
+      <link>http://localhost:1313/tags/o%C3%B9-valmond/</link>
       <pubDate>Wed, 08 Jan 2025 18:52:02 +0100</pubDate>
-      <guid>https://almond.solidairesinformatique.org/tags/o%C3%B9-valmond/</guid>
+      <guid>http://localhost:1313/tags/o%C3%B9-valmond/</guid>
       <description></description>
     </item>
   </channel>
