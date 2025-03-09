@@ -6,20 +6,20 @@
     <description>Recent content in Tags on Solidaires Informatique Almond</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 27 Jan 2025 22:19:55 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 22:09:07 +0100</lastBuildDate>
     <atom:link href="https://almond.solidairesinformatique.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Où V&#39;Almond</title>
+      <link>https://almond.solidairesinformatique.org/tags/o%C3%B9-valmond/</link>
+      <pubDate>Sun, 09 Mar 2025 22:09:07 +0100</pubDate>
+      <guid>https://almond.solidairesinformatique.org/tags/o%C3%B9-valmond/</guid>
+      <description></description>
+    </item>
     <item>
       <title>CSE</title>
       <link>https://almond.solidairesinformatique.org/tags/cse/</link>
       <pubDate>Mon, 27 Jan 2025 22:19:55 +0100</pubDate>
       <guid>https://almond.solidairesinformatique.org/tags/cse/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Où V&#39;Almond</title>
-      <link>https://almond.solidairesinformatique.org/tags/o%C3%B9-valmond/</link>
-      <pubDate>Wed, 08 Jan 2025 18:52:02 +0100</pubDate>
-      <guid>https://almond.solidairesinformatique.org/tags/o%C3%B9-valmond/</guid>
       <description></description>
     </item>
   </channel>

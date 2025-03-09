@@ -561,6 +561,7 @@ footer .footer-links a {
 }
 .post-preview .post-entry {
   font-family: sans-serif;
+  text-align: justify;
 }
 .post-entry-container {
   display: inline-block;
