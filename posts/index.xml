@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Solidaires Informatique Almond</title>
-    <link>https://almond.solidairesinformatique.org/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Solidaires Informatique Almond</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Tue, 01 Jul 2025 11:19:00 +0200</lastBuildDate>
-    <atom:link href="https://almond.solidairesinformatique.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Où v&#39;Almond #5 - Négociation sur les congés </title>
-      <link>https://almond.solidairesinformatique.org/posts/2025/07/01/o%C3%B9-valmond-%235-n%C3%A9gociation-sur-les-cong%C3%A9s/</link>
+      <link>http://localhost:1313/posts/2025/07/01/o%C3%B9-valmond-%235-n%C3%A9gociation-sur-les-cong%C3%A9s/</link>
       <pubDate>Tue, 01 Jul 2025 11:19:00 +0200</pubDate>
-      <guid>https://almond.solidairesinformatique.org/posts/2025/07/01/o%C3%B9-valmond-%235-n%C3%A9gociation-sur-les-cong%C3%A9s/</guid>
+      <guid>http://localhost:1313/posts/2025/07/01/o%C3%B9-valmond-%235-n%C3%A9gociation-sur-les-cong%C3%A9s/</guid>
       <description>Dans le cadre des négociations autour du temps de travail, les organisations syndicales représentatives (OSR) et la direction ont poursuivi leurs échanges autour d’un accord sur les congés. Malgré une position ouverte des organisations syndicales, la direction rejette l’ensemble de nos revendications, sans même émettre d’éventuels ajustements ou contre-propositions. Aucun accord n&amp;rsquo;est donc signé.</description>
     </item>
     <item>
       <title>Désarmons l&#39;empire Bolloré</title>
-      <link>https://almond.solidairesinformatique.org/posts/2025/06/17/d%C3%A9sarmons-lempire-bollor%C3%A9/</link>
+      <link>http://localhost:1313/posts/2025/06/17/d%C3%A9sarmons-lempire-bollor%C3%A9/</link>
       <pubDate>Tue, 17 Jun 2025 16:02:14 +0200</pubDate>
-      <guid>https://almond.solidairesinformatique.org/posts/2025/06/17/d%C3%A9sarmons-lempire-bollor%C3%A9/</guid>
+      <guid>http://localhost:1313/posts/2025/06/17/d%C3%A9sarmons-lempire-bollor%C3%A9/</guid>
       <description>&lt;p&gt;Solidaires Informatique est un syndicat antifasciste. Face à la montée des discours réactionnaires dans la société Française, l&amp;rsquo;Union Syndicale Solidaires (dont fait partie Solidaires Informatique) a rejoint la campagne &lt;a href=&#34;https://desarmerbollore.net&#34;&gt;Désarmer Bolloré&lt;/a&gt;. Vincent Bolloré, avec son empire industriel et son emprise sur le paysage médiatique français, participe activement à la diffusion des discours d&amp;rsquo;extrême droite.&lt;/p&gt;&#xA;&lt;p&gt;En construisant un large front à la fois syndical, social, écologiste, féministe, décolonial, antifasciste et international, luttons contre son empire et ses projets mortifères.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chez Almond, soyons fier⋅es et solidaires</title>
-      <link>https://almond.solidairesinformatique.org/posts/2025/06/10/chez-almond-soyons-fieres-et-solidaires/</link>
+      <link>http://localhost:1313/posts/2025/06/10/chez-almond-soyons-fieres-et-solidaires/</link>
       <pubDate>Tue, 10 Jun 2025 15:54:35 +0200</pubDate>
-      <guid>https://almond.solidairesinformatique.org/posts/2025/06/10/chez-almond-soyons-fieres-et-solidaires/</guid>
+      <guid>http://localhost:1313/posts/2025/06/10/chez-almond-soyons-fieres-et-solidaires/</guid>
       <description>Le mois de juin est célébré mondialement comme le mois des fiertés, en commémoration des &lt;a href=&#34;https://fr.wikipedia.org/wiki/%C3%89meutes_de_Stonewall&#34;&gt;émeutes de Stonewall&lt;/a&gt;. Il s’agit de faire vivre la mémoire des luttes des personnes LGBTQIA+ dans le monde. Notre syndicat combat toutes les violences LGBTQIA-phobes, qu’elles viennent des institutions, du patronat, ou des collègues.</description>
     </item>
     <item>
       <title>Compte rendu syndical de réunion CSE 7 Mai 2025</title>
-      <link>https://almond.solidairesinformatique.org/posts/2025/05/22/compte-rendu-syndical-de-r%C3%A9union-cse-7-mai-2025/</link>
+      <link>http://localhost:1313/posts/2025/05/22/compte-rendu-syndical-de-r%C3%A9union-cse-7-mai-2025/</link>
       <pubDate>Thu, 22 May 2025 18:00:52 +0200</pubDate>
-      <guid>https://almond.solidairesinformatique.org/posts/2025/05/22/compte-rendu-syndical-de-r%C3%A9union-cse-7-mai-2025/</guid>
+      <guid>http://localhost:1313/posts/2025/05/22/compte-rendu-syndical-de-r%C3%A9union-cse-7-mai-2025/</guid>
       <description>&lt;p&gt;Ordre du jour :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Avis de consultation sur le projet de réaménagement des bureaux de Sèvres&lt;/li&gt;&#xA;&lt;li&gt;Avis de consultation concernant la périodicité du versement de la prime de vacances&lt;/li&gt;&#xA;&lt;li&gt;Information consultation sur l&amp;rsquo;avenant lié au Plan Épargne Entreprise&lt;/li&gt;&#xA;&lt;li&gt;Retour des élu⋅es concernant le règlement intérieur du CSE&lt;/li&gt;&#xA;&lt;li&gt;Vote budget CSE concernant le séjour au ski 2026&lt;/li&gt;&#xA;&lt;li&gt;Question d&amp;rsquo;un⋅e salarié⋅e&lt;/li&gt;&#xA;&lt;li&gt;Questions diverses&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Plusieurs points traités dans cette réunion CSE font suite à la réunion du mois d&amp;rsquo;avril. Vous pouvez consulter &lt;a href=&#34;https://almond.solidairesinformatique.org/posts/2025/04/29/compte-rendu-syndical-de-r%C3%A9union-cse-4-avril-2025/&#34;&gt;notre compte-rendu syndical du mois d&amp;rsquo;avril&lt;/a&gt; pour vous remettre ces points en tête.&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Où v&#39;Almond #4 - Négociation le temps de travail (modalités Syntec)</title>
-      <link>https://almond.solidairesinformatique.org/posts/2025/04/29/o%C3%B9-valmond-%234-n%C3%A9gociation-le-temps-de-travail-modalit%C3%A9s-syntec/</link>
+      <link>http://localhost:1313/posts/2025/04/29/o%C3%B9-valmond-%234-n%C3%A9gociation-le-temps-de-travail-modalit%C3%A9s-syntec/</link>
       <pubDate>Tue, 29 Apr 2025 21:49:16 +0200</pubDate>
-      <guid>https://almond.solidairesinformatique.org/posts/2025/04/29/o%C3%B9-valmond-%234-n%C3%A9gociation-le-temps-de-travail-modalit%C3%A9s-syntec/</guid>
+      <guid>http://localhost:1313/posts/2025/04/29/o%C3%B9-valmond-%234-n%C3%A9gociation-le-temps-de-travail-modalit%C3%A9s-syntec/</guid>
       <description>La direction a souhaité ouvrir des négociations sur le temps de travail. C&amp;rsquo;est une thématique essentielle à l&amp;rsquo;organisation du travail qui regroupe plusieurs sujets.  Des négociations ont eu lieu ces dernières semaines sur l&amp;rsquo;accord concernant les modalités Syntec. Après plusieurs réunions, et &lt;strong&gt;suite à l&amp;rsquo;obtention de mesures concrètes sur le suivi des heures supplémentaires&lt;/strong&gt;, &lt;strong&gt;les organisations syndicales et la direction sont parvenues à un accord&lt;/strong&gt;.</description>
     </item>
     <item>
       <title>Compte rendu syndical de réunion CSE 4 Avril 2025</title>
-      <link>https://almond.solidairesinformatique.org/posts/2025/04/29/compte-rendu-syndical-de-r%C3%A9union-cse-4-avril-2025/</link>
+      <link>http://localhost:1313/posts/2025/04/29/compte-rendu-syndical-de-r%C3%A9union-cse-4-avril-2025/</link>
       <pubDate>Tue, 29 Apr 2025 21:37:32 +0200</pubDate>
-      <guid>https://almond.solidairesinformatique.org/posts/2025/04/29/compte-rendu-syndical-de-r%C3%A9union-cse-4-avril-2025/</guid>
+      <guid>http://localhost:1313/posts/2025/04/29/compte-rendu-syndical-de-r%C3%A9union-cse-4-avril-2025/</guid>
       <description>&lt;p&gt;Ordre du jour : - Sensibilisation au harcèlement et aux violences sexistes et sexuelles (article L4121-1)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Retour concernant le règlement intérieur du CSE&lt;/li&gt;&#xA;&lt;li&gt;Information consultation sur le projet de réaménagement des bureaux de sèvres&lt;/li&gt;&#xA;&lt;li&gt;Information consultation concernant la périodicité du versement de la prime de vacances&lt;/li&gt;&#xA;&lt;li&gt;Remplacement du mandat titulaire de Chloé CARRIERE par Kilian FAVERO&lt;/li&gt;&#xA;&lt;li&gt;Vote dotation exceptionnelle pour proposer les ASC à la société BOARD OF CYBER&lt;/li&gt;&#xA;&lt;li&gt;Représentation du CSE dans les organes décisionnaires&lt;/li&gt;&#xA;&lt;li&gt;Information concernant la journée de solidarité 2025&lt;/li&gt;&#xA;&lt;li&gt;Calendrier de mise à jour du DUERP&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Fermeture 2025 et organisation des congés : malgré une inflexion, la direction persiste</title>
-      <link>https://almond.solidairesinformatique.org/posts/2025/04/10/fermeture-2025-et-organisation-des-cong%C3%A9s-malgr%C3%A9-une-inflexion-la-direction-persiste/</link>
+      <link>http://localhost:1313/posts/2025/04/10/fermeture-2025-et-organisation-des-cong%C3%A9s-malgr%C3%A9-une-inflexion-la-direction-persiste/</link>
       <pubDate>Thu, 10 Apr 2025 20:57:29 +0200</pubDate>
-      <guid>https://almond.solidairesinformatique.org/posts/2025/04/10/fermeture-2025-et-organisation-des-cong%C3%A9s-malgr%C3%A9-une-inflexion-la-direction-persiste/</guid>
+      <guid>http://localhost:1313/posts/2025/04/10/fermeture-2025-et-organisation-des-cong%C3%A9s-malgr%C3%A9-une-inflexion-la-direction-persiste/</guid>
       <description>En début d&amp;rsquo;année, la direction envisageait d&amp;rsquo;imposer 16 jours de congés aux salarié⋅es en 2025 (6 RTT sur les ponts de Mai et sur Noël, ainsi que 10 jours de congés entre Juillet et Août). Suite à une réaction collective des salarié⋅es et de leurs représentant⋅es, la prise des 10 jours ouvrés sur la période estivale a finalement été élargie du 1er Juin au 31 Septembre. Les sections &lt;a href=&#34;https://almond.section.printemps-ecologique.fr/&#34;&gt;Printemps écologique&lt;/a&gt; et Solidaires Informatique prennent acte de cet assouplissement par rapport au projet initial de la direction. Cependant les représentant⋅es du personnel (syndicaux et CSE) se font les relais du mécontentement qui demeure quant à cette mesure, et maintiennent leur position de désaccord lors des négociations. De plus, les sections syndicales s’interrogent sur la légalité de la fermeture d’entreprise lorsque certaines activités sont exemptées.</description>
     </item>
     <item>
       <title>Où v&#39;Almond #3 - Congés hormonaux</title>
-      <link>https://almond.solidairesinformatique.org/posts/2025/03/23/o%C3%B9-valmond-%233-cong%C3%A9s-hormonaux/</link>
+      <link>http://localhost:1313/posts/2025/03/23/o%C3%B9-valmond-%233-cong%C3%A9s-hormonaux/</link>
       <pubDate>Sun, 23 Mar 2025 14:10:13 +0100</pubDate>
-      <guid>https://almond.solidairesinformatique.org/posts/2025/03/23/o%C3%B9-valmond-%233-cong%C3%A9s-hormonaux/</guid>
+      <guid>http://localhost:1313/posts/2025/03/23/o%C3%B9-valmond-%233-cong%C3%A9s-hormonaux/</guid>
       <description>En ce mois de mars, mois des droits des femmes, Solidaires Informatique souhaite mettre l’accent sur un dispositif que certaines entreprises mettent peu à peu en œuvre : les congés hormonaux. Almond se doit d&amp;rsquo;accueillir les personnes avec les effets de leurs variations hormonales tout au long de la vie. &lt;strong&gt;Solidaires Informatique revendique la mise en place de congés payés supplémentaires à la disposition des salarié⋅es le nécessitant&lt;/strong&gt;.</description>
     </item>
     <item>
       <title>Compte rendu syndical de réunion CSE 6 Mars 2025</title>
-      <link>https://almond.solidairesinformatique.org/posts/2025/03/22/compte-rendu-syndical-de-r%C3%A9union-cse-6-mars-2025/</link>
+      <link>http://localhost:1313/posts/2025/03/22/compte-rendu-syndical-de-r%C3%A9union-cse-6-mars-2025/</link>
       <pubDate>Sat, 22 Mar 2025 11:12:48 +0100</pubDate>
-      <guid>https://almond.solidairesinformatique.org/posts/2025/03/22/compte-rendu-syndical-de-r%C3%A9union-cse-6-mars-2025/</guid>
+      <guid>http://localhost:1313/posts/2025/03/22/compte-rendu-syndical-de-r%C3%A9union-cse-6-mars-2025/</guid>
       <description>&lt;p&gt;Ordre du jour :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;SSCT : Sécurité et Santé au Travail&lt;/li&gt;&#xA;&lt;li&gt;Consultation sur les orientations stratégiques&lt;/li&gt;&#xA;&lt;li&gt;Projet de réaménagement des bureaux de Sèvres&lt;/li&gt;&#xA;&lt;li&gt;Index égalité professionnelle&lt;/li&gt;&#xA;&lt;li&gt;Processus de formation des personnes en charge de recrutement&lt;/li&gt;&#xA;&lt;li&gt;Matériel à disposition&lt;/li&gt;&#xA;&lt;li&gt;Affichage Syndical et CSE&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Où v&#39;Almond #2 - Négociation sur la rémunération</title>
-      <link>https://almond.solidairesinformatique.org/posts/2025/03/09/o%C3%B9-valmond-%232-n%C3%A9gociation-sur-la-r%C3%A9mun%C3%A9ration/</link>
+      <link>http://localhost:1313/posts/2025/03/09/o%C3%B9-valmond-%232-n%C3%A9gociation-sur-la-r%C3%A9mun%C3%A9ration/</link>
       <pubDate>Sun, 09 Mar 2025 22:09:07 +0100</pubDate>
-      <guid>https://almond.solidairesinformatique.org/posts/2025/03/09/o%C3%B9-valmond-%232-n%C3%A9gociation-sur-la-r%C3%A9mun%C3%A9ration/</guid>
+      <guid>http://localhost:1313/posts/2025/03/09/o%C3%B9-valmond-%232-n%C3%A9gociation-sur-la-r%C3%A9mun%C3%A9ration/</guid>
       <description>Au mois de Janvier ont eu lieu les négociations entre les organisations syndicales représentatives sur la rémunération, le temps de travail et le partage de la valeur ajoutée dans l&amp;rsquo;entreprise. Bien qu&amp;rsquo;initialement la direction soit apparue comme fermée à la discussion, un échange plus constructif a pu être mené par la suite. Suite au manque d&amp;rsquo;engagement de la direction sur nos revendications et l&amp;rsquo;absence d&amp;rsquo;information précise quant au résultat financier de la boîte, les sections syndicales ont décidé de ne pas signer cet accord.</description>
     </item>
     <item>
       <title>Compte rendu syndical de réunion CSE 14 Janvier 2025</title>
-      <link>https://almond.solidairesinformatique.org/posts/2025/01/27/compte-rendu-syndical-de-r%C3%A9union-cse-14-janvier-2025/</link>
+      <link>http://localhost:1313/posts/2025/01/27/compte-rendu-syndical-de-r%C3%A9union-cse-14-janvier-2025/</link>
       <pubDate>Mon, 27 Jan 2025 22:19:55 +0100</pubDate>
-      <guid>https://almond.solidairesinformatique.org/posts/2025/01/27/compte-rendu-syndical-de-r%C3%A9union-cse-14-janvier-2025/</guid>
+      <guid>http://localhost:1313/posts/2025/01/27/compte-rendu-syndical-de-r%C3%A9union-cse-14-janvier-2025/</guid>
       <description>&lt;p&gt;Ordre du jour :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fermeture 2025 et organisation des congés&lt;/li&gt;&#xA;&lt;li&gt;Accord temps de travail des salarié⋅es Amossys&lt;/li&gt;&#xA;&lt;li&gt;Fermeture 2025 et organisation des congés&lt;/li&gt;&#xA;&lt;li&gt;Panneaux d&amp;rsquo;affichage CSE&lt;/li&gt;&#xA;&lt;li&gt;Mise en place d&amp;rsquo;un outil d&amp;rsquo;IA au sein du groupe&lt;/li&gt;&#xA;&lt;li&gt;Accord Forfait Mobilité Durable (FMD)&lt;/li&gt;&#xA;&lt;li&gt;Formation SSCT des élu⋅es CSE&lt;/li&gt;&#xA;&lt;li&gt;Berceaux crèches 2025&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Où v&#39;Almond #1 - Accord Forfait Mobilité Durable : nous ne signons pas</title>
-      <link>https://almond.solidairesinformatique.org/posts/2025/01/08/o%C3%B9-valmond-%231-accord-forfait-mobilit%C3%A9-durable-nous-ne-signons-pas/</link>
+      <link>http://localhost:1313/posts/2025/01/08/o%C3%B9-valmond-%231-accord-forfait-mobilit%C3%A9-durable-nous-ne-signons-pas/</link>
       <pubDate>Wed, 08 Jan 2025 18:52:02 +0100</pubDate>
-      <guid>https://almond.solidairesinformatique.org/posts/2025/01/08/o%C3%B9-valmond-%231-accord-forfait-mobilit%C3%A9-durable-nous-ne-signons-pas/</guid>
+      <guid>http://localhost:1313/posts/2025/01/08/o%C3%B9-valmond-%231-accord-forfait-mobilit%C3%A9-durable-nous-ne-signons-pas/</guid>
       <description>Les négociations portant sur l&amp;rsquo;accord Forfait Mobilité Durable (FMD) ont eu lieu ces dernières semaines. N&amp;rsquo;étant pas aligné⋅es avec une proposition qui implique la réduction des droits des salarié⋅es de Rennes, nous ne signerons pas l&amp;rsquo;accord proposé par la direction.</description>
     </item>
   </channel>
