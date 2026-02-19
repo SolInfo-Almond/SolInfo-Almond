@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Solidaires Informatique Almond</title>
+    <link>https://almond.solidairesinformatique.org/tags/</link>
+    <description>Recent content in Tags on Solidaires Informatique Almond</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 12 Feb 2026 00:00:00 +0100</lastBuildDate>
+    <atom:link href="https://almond.solidairesinformatique.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Palestine</title>
+      <link>https://almond.solidairesinformatique.org/tags/palestine/</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0100</pubDate>
+      <guid>https://almond.solidairesinformatique.org/tags/palestine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Communiqué Intersyndical</title>
+      <link>https://almond.solidairesinformatique.org/tags/communiqu%C3%A9-intersyndical/</link>
+      <pubDate>Wed, 28 Jan 2026 16:07:42 +0100</pubDate>
+      <guid>https://almond.solidairesinformatique.org/tags/communiqu%C3%A9-intersyndical/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CSE</title>
+      <link>https://almond.solidairesinformatique.org/tags/cse/</link>
+      <pubDate>Mon, 19 Jan 2026 11:45:18 +0100</pubDate>
+      <guid>https://almond.solidairesinformatique.org/tags/cse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Où V&#39;Almond</title>
+      <link>https://almond.solidairesinformatique.org/tags/o%C3%B9-valmond/</link>
+      <pubDate>Fri, 09 Jan 2026 11:56:20 +0100</pubDate>
+      <guid>https://almond.solidairesinformatique.org/tags/o%C3%B9-valmond/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Antifascisme</title>
+      <link>https://almond.solidairesinformatique.org/tags/antifascisme/</link>
+      <pubDate>Tue, 17 Jun 2025 16:02:14 +0200</pubDate>
+      <guid>https://almond.solidairesinformatique.org/tags/antifascisme/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bolloré</title>
+      <link>https://almond.solidairesinformatique.org/tags/bollor%C3%A9/</link>
+      <pubDate>Tue, 17 Jun 2025 16:02:14 +0200</pubDate>
+      <guid>https://almond.solidairesinformatique.org/tags/bollor%C3%A9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LGBTQIA&#43;</title>
+      <link>https://almond.solidairesinformatique.org/tags/lgbtqia&#43;/</link>
+      <pubDate>Tue, 10 Jun 2025 15:54:35 +0200</pubDate>
+      <guid>https://almond.solidairesinformatique.org/tags/lgbtqia&#43;/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
