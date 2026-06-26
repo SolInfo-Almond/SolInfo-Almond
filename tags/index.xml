@@ -6,8 +6,15 @@
     <description>Recent content in Tags on Solidaires Informatique Almond</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 04 Jun 2026 09:47:39 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 14:26:04 +0200</lastBuildDate>
     <atom:link href="https://almond.solidairesinformatique.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LGBTQIA&#43;</title>
+      <link>https://almond.solidairesinformatique.org/tags/lgbtqia&#43;/</link>
+      <pubDate>Fri, 26 Jun 2026 14:26:04 +0200</pubDate>
+      <guid>https://almond.solidairesinformatique.org/tags/lgbtqia&#43;/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Antifascisme</title>
       <link>https://almond.solidairesinformatique.org/tags/antifascisme/</link>
@@ -69,13 +76,6 @@
       <link>https://almond.solidairesinformatique.org/tags/bollor%C3%A9/</link>
       <pubDate>Tue, 17 Jun 2025 16:02:14 +0200</pubDate>
       <guid>https://almond.solidairesinformatique.org/tags/bollor%C3%A9/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>LGBTQIA&#43;</title>
-      <link>https://almond.solidairesinformatique.org/tags/lgbtqia&#43;/</link>
-      <pubDate>Tue, 10 Jun 2025 15:54:35 +0200</pubDate>
-      <guid>https://almond.solidairesinformatique.org/tags/lgbtqia&#43;/</guid>
       <description></description>
     </item>
   </channel>
