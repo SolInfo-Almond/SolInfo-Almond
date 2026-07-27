@@ -2,10 +2,51 @@
 
 @font-face {
     font-family: 'Scotchlidaires';
-    font-style: normal;
     font-weight: 400;
+    font-style: normal;
     src: local('Scotchlidaires'),
         url('../fonts/scotchlidaires-2-2.woff2') format('woff2'), /* Super Modern Browsers */
         url('../fonts/scotchlidaires-2-2.woff') format('woff'), /* Modern Browsers */
         url('../fonts/scotchlidaires-2-2.ttf') format('truetype');
 }
+
+@font-face {
+    font-family: 'Luciole';
+    font-weight: normal;
+    font-style: normal;
+    src: local('Luciole-Regular'),
+        url('../fonts/Luciole_webfonts/Luciole-Regular/Luciole-Regular.woff2') format('woff2'),
+        url('../fonts/Luciole_webfonts/Luciole-Regular/Luciole-Regular.woff') format('woff'),
+        url('../fonts/Luciole_webfonts/Luciole-Regular/Luciole-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Luciole';
+    font-weight: normal;
+    font-style: italic;
+    src: local('Luciole-Italic'),
+        url('../fonts/Luciole_webfonts/Luciole-Italic/Luciole-Italic.woff2') format('woff2'),
+        url('../fonts/Luciole_webfonts/Luciole-Italic/Luciole-Italic.woff') format('woff'),
+        url('../fonts/Luciole_webfonts/Luciole-Italic/Luciole-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Luciole';
+    font-weight: bold;
+    font-style: normal;
+    src: local('Luciole-Bold'),
+        url('../fonts/Luciole_webfonts/Luciole-Bold/Luciole-Bold.woff2') format('woff2'),
+        url('../fonts/Luciole_webfonts/Luciole-Bold/Luciole-Bold.woff') format('woff'),
+        url('../fonts/Luciole_webfonts/Luciole-Bold/Luciole-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Luciole';
+    font-weight: bold;
+    font-style: italic;
+    src: local('Luciole-BoldItalic'),
+        url('../fonts/Luciole_webfonts/Luciole-BoldItalic/Luciole-BoldItalic.woff2') format('woff2'),
+        url('../fonts/Luciole_webfonts/Luciole-BoldItalic/Luciole-BoldItalic.woff') format('woff'),
+        url('../fonts/Luciole_webfonts/Luciole-BoldItalic/Luciole-BoldItalic.ttf') format('truetype');
+}
+

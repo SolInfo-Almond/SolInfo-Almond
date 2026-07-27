@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  font-family: sans-serif;
+  font-family: 'Luciole', sans-serif;
   font-size: 18px;
   color: #232323;
   position: relative;
@@ -35,7 +35,7 @@ body {
 p {
   line-height: 1.5;
   margin: 6px 0;
-  text-align: justify;
+  text-align: left;
 }
 p + p,
 li + li p,
@@ -152,7 +152,7 @@ hr.light {
 }
 
 .main-explain-area {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Luciole", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   padding: 15px inherit;
 }
 
@@ -161,7 +161,7 @@ hr.light {
 }
 
 div.panel-body a.list-group-item {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Luciole", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 800;
   border-radius: 0;
   border: none;
@@ -218,7 +218,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  font-family: sans-serif;
+  font-family: 'Luciole', sans-serif;
   background: #e50073;
   color: #ffff54;
 }
@@ -444,7 +444,7 @@ footer .list-inline {
   padding: 0;
 }
 footer .copyright {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Luciole", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-align: center;
   margin-bottom: 0;
 }
@@ -519,7 +519,7 @@ footer .footer-links a {
   font-size: 30px;
   margin-top: 0;
   color: #232323;
-  font-family: "Scotchlidaires";
+  font-family: "Luciole", "Scotchlidaires";
   transition: padding 255ms;
 }
 
@@ -533,6 +533,7 @@ footer .footer-links a {
 .post-preview .post-title,
 .pages-heading h1,
 .posts-heading h1 {
+  font-family: 'Luciole';
   padding: 1rem;
   margin-bottom: 3rem;
   transition: padding 255ms;
@@ -584,7 +585,7 @@ footer .footer-links a {
   text-decoration: none;
 }
 .post-preview .post-entry {
-  font-family: sans-serif;
+  font-family: "Luciole", sans-serif;
   text-align: justify;
 }
 .post-entry-container {
@@ -624,7 +625,7 @@ footer .footer-links a {
 /* --- Tags --- */
 
 .blog-tags {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Luciole", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #999;
   font-size: 15px;
   margin-bottom: 30px;
@@ -730,7 +731,7 @@ footer .footer-links a {
   font-size: 27px;
   line-height: 1.1;
   display: block;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Luciole", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
 }
@@ -755,7 +756,7 @@ footer .footer-links a {
   padding: 5px 10px;
   font-size: 11px;
   color: #eee;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Luciole", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   right: 0;
   bottom: 0;
   display: none;
@@ -831,7 +832,7 @@ footer .footer-links a {
 /* --- Pager --- */
 
 .pager li a {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Luciole", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
@@ -982,7 +983,7 @@ div.splitbox div.right {
 
 /* Delayed Disqus */
 .disqus-comments button {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Luciole", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
@@ -1114,7 +1115,7 @@ ul.share li:hover .fab {
   } */
 
 a.markdown-btn {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Luciole", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   font-weight: 800;
   letter-spacing: 1px;
